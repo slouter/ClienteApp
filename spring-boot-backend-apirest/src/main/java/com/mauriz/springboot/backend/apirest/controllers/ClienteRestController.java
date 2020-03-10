@@ -24,4 +24,5 @@ public class ClienteRestController {
 		return clienteService.findAll();
 	}
 	
+	//Hasta aqui subir al git
 }
